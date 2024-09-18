@@ -1,0 +1,99 @@
+City_name:Coimbatore
+Weather_Description:mist
+Current_Temperature:23.88
+Pressure:1008
+Humidity:94
+Co_Ordinates:{'lon': 76.9667, 'lat': 11}City_name:Chennai
+Weather_Description:mist
+Current_Temperature:30.15
+Pressure:1005
+Humidity:76
+Co_Ordinates:{'lon': 80.2785, 'lat': 13.0878}City_name:Coimbatore
+Weather_Description:mist
+Current_Temperature:23.88
+Pressure:1008
+Humidity:94
+Co_Ordinates:{'lon': 76.9667, 'lat': 11}City_name:Kanyakumari
+Weather_Description:overcast clouds
+Current_Temperature:25.4
+Pressure:1007
+Humidity:83
+Co_Ordinates:{'lon': 77.5499, 'lat': 8.0793}City_name:Coimbatore
+Weather_Description:mist
+Current_Temperature:23.88
+Pressure:1008
+Humidity:94
+Co_Ordinates:{'lon': 76.9667, 'lat': 11}City_name:Madurai
+Weather_Description:scattered clouds
+Current_Temperature:28.1
+Pressure:1006
+Humidity:62
+Co_Ordinates:{'lon': 78.1167, 'lat': 9.9333}
+City_name:Theni
+Weather_Description:scattered clouds
+Current_Temperature:24.15
+Pressure:1008
+Humidity:71
+Co_Ordinates:{'lon': 77.4833, 'lat': 10}
+City_name:Madurai
+Weather_Description:scattered clouds
+Current_Temperature:28.1
+Pressure:1006
+Humidity:62
+Co_Ordinates:{'lon': 78.1167, 'lat': 9.9333}
+City_name:Cambodia
+Weather_Description:light rain
+Current_Temperature:23.17
+Pressure:1001
+Humidity:99
+Co_Ordinates:{'lon': 105, 'lat': 13}
+City_name:Madurai
+Weather_Description:scattered clouds
+Current_Temperature:28.1
+Pressure:1006
+Humidity:62
+Co_Ordinates:{'lon': 78.1167, 'lat': 9.9333}
+
+City_name:Cambodia
+Weather_Description:light rain
+Current_Temperature:23.17
+Pressure:1001
+Humidity:99
+Co_Ordinates:{'lon': 105, 'lat': 13}
+
+
+City_name:Chennai
+Weather_Description:mist
+Current_Temperature:29.97
+Pressure:1005
+Humidity:76
+Co_Ordinates:{'lon': 80.2785, 'lat': 13.0878}
+
+
+S.No:0
+City_name:Cambodia
+Weather_Description:light rain
+Current_Temperature:23.17
+Pressure:1001
+Humidity:99
+Co_Ordinates:{'lon': 105, 'lat': 13}
+
+
+S.No:0
+City_name:Chennai
+Weather_Description:mist
+Current_Temperature:29.97
+Pressure:1005
+Humidity:76
+Co_Ordinates:{'lon': 80.2785, 'lat': 13.0878}
+
+
+S.No:0
+City_name:Theni
+Weather_Description:scattered clouds
+Current_Temperature:24.15
+Pressure:1008
+Humidity:71
+Co_Ordinates:{'lon': 77.4833, 'lat': 10}
+
+
