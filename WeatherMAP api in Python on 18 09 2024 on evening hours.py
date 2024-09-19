@@ -2,6 +2,8 @@
 #***************************** Virtual Env name = "api_boi" *********************************
 #***************************** WeatherMap API using RESTAPI's *********************************
 
+#Link for Pushing in git - https://www.datacamp.com/tutorial/git-push-pull
+
 import json
 import requests as request
 import csv
